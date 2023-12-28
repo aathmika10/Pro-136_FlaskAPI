@@ -1,0 +1,11 @@
+data=[{'name':'Sun','distance':'0.000015813','mass':'1.989e+30','radius':'695700000.0','gravity':'274.2691614595739',
+       'name':'Sirius','distance':'0008.6','mass':'4.1769e+30','radius':'1189647000.0','gravity':'196.971799550325',
+       'name':'Alpha Centauri','distance':'0004.4','mass':'2.1879e+30','radius':'834840000.0','gravity':'209.51116500384123',
+       'name':'Altair','distance':'0017','mass':'3.5802e+30','radius':'1252260000.0','gravity':'152.37175636642996',
+       'name':'Fomalhaut','distance':'0025','mass':'3.7790999999999997e+30','radius':'1252260000.0','gravity':'160.8368539423427',
+       'name':'Tau Ceti','distance':'011.9,1.557387e+30','mass':'621260100.0','radius':'269.29967110479345','gravity':'269.29967110479345',
+       'name':'Delta Pavonis','distance':'019.92','mass':'1.9710989999999998e+30','radius':'848754000.0','gravity':'274.182.61269753187165',
+       'name':'Titawin','distance':'044.25','mass':'2.52603e+30','radius':'1029636000.0','gravity':'159.02202111653529',
+       'name':'54 Piscium','distance':'036.1','mass':'1.51164e+30','radius':'653958000.0','gravity':'235.9037604224493',
+       'name':'WISE 0458+6434A','distance':'35.9','mass':'2.9835e+31','radius':'2921940000.0','gravity':'233.22207607106628',
+       'name':'WISE 0458+6434B','distance':'35.9','mass':'1.989e+31','radius':'2643660000.0','gravity':'189.93709242352767',}]
